@@ -8,3 +8,5 @@ tags:
 type:
   - lab
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/css-kitten-wheelbarrow.git
